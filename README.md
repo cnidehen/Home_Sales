@@ -1,7 +1,8 @@
 # Home_Sales
 Module 22 Challenge
 
-[![Alt text](image-1.png)](https://media.istockphoto.com/vectors/sold-sign-on-red-circle-vector-id471793585?k=6&m=471793585&s=612x612&w=0&h=Uf5K2yLQSJc_Wlainqfrnr4O_K27IRHGxEcGnSD7HE0=)
+![image](https://github.com/cnidehen/Home_Sales/assets/128870405/6584fc16-674f-4fd9-ba8b-2e2c646132f9)
+
 
 
 ## Background
